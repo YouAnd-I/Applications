@@ -1,0 +1,30 @@
+[submodule "Windows"]
+	path = Windows
+	url = https://github.com/YouAnd-I/Windows
+[submodule "Linux"]
+	path = Linux
+	url = https://github.com/YouAnd-I/Linux
+[submodule "Unity"]
+	path = Unity
+	url = https://github.com/YouAnd-I/Unity
+[submodule "Web"]
+	path = Web
+	url = https://github.com/YouAnd-I/Web
+[submodule "Android"]
+	path = Android
+	url = https://github.com/YouAnd-I/Android
+[submodule "Blender"]
+	path = Blender
+	url = https://github.com/YouAnd-I/Blender
+[submodule "iOS"]
+	path = iOS
+	url = https://github.com/YouAnd-I/iOS
+[submodule "CLI"]
+	path = CLI
+	url = https://github.com/YouAnd-I/CLI
+[submodule "TUI"]
+	path = TUI
+	url = https://github.com/YouAnd-I/TUI
+[submodule "MacOS"]
+	path = MacOS
+	url = https://github.com/YouAnd-I/MacOS
